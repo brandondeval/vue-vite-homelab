@@ -2,6 +2,7 @@
 import HelloWorld from './components/HelloWorld.vue'
 
 // test
+// test 2
 </script>
 
 <template>
